@@ -15,3 +15,12 @@ virginiah Wamuyu
 -JQuery
 -Bootstrap
 -Python3
+
+## Cloning Repository
+
+Clone the Repo
+Edit the start.sh file with your api key from the news.org website
+Install python 3.6
+Run chmod a+x start.sh
+Run ./start.sh
+
