@@ -9,3 +9,9 @@ virginiah Wamuyu
 -click on the news source and it will display the article
 -when loading page it will display the images,titles and article
 -click on the article so as to read the whole article
+
+## Technologies Used
+-Html
+-JQuery
+-Bootstrap
+-Python3
