@@ -24,3 +24,7 @@ Install python 3.6
 Run chmod a+x start.sh
 Run ./start.sh
 
+## Licence
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2020 © <a href="#" target="_blank">Virginiah Wamuyu</a>.
+
